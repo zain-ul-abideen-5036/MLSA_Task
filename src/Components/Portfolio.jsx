@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/computer.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with coding laptop";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "NUMBER GUESSING GAME",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This C++ program implements a number guessing game where the user guesses a randomly generated number between 1 and 10. The program provides feedback on each guess, indicating if it's too high or too low, and congratulates the user upon a correct guess, displaying the number of attempts made.",
+    url: "https://github.com/zain-ul-abideen-5036/CodSoft_task_01.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "SIMPLE CALCULATOR",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This C++ program defines template functions for basic arithmetic operations (addition, subtraction, multiplication, and division) and prompts the user to input two values and select an operation. It performs the chosen operation using the templates and displays the result, handling division by zero.",
+    url: "https://github.com/zain-ul-abideen-5036/CodSoft_task_02.git",
   },
   {
-    title: "My Resume Site",
+    title: "STUDENT GRADING SYSTEM",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This C++ program allows users to input student names and corresponding grades. It calculates the average grade, identifies the highest and lowest grades, and displays a summary of the student grades. The program uses an array to store student names and grades, and it handles input termination when the user enters 'b'. The grades are processed numerically (e.g., A = 90, B = 80), and the results are presented in a clear summary at the end.",
+    url: "https://github.com/zain-ul-abideen-5036/CodSoft_task_03.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "WORD COUNT",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This C++ program calculates and displays the total count of words in a specified file. It prompts the user to enter the name of the file, reads the file, and counts the number of words using a simple loop. The program then outputs the total word count for the specified file. If there is an error in opening the file, it displays an appropriate error message.",
+    url: "https://github.com/zain-ul-abideen-5036/CodSoft_task_04.git",
   },
 ];
 
