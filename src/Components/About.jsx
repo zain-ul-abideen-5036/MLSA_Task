@@ -26,6 +26,7 @@ const imageAltText = "Black coding background";
 const description =
   "As a Computer Science student, I aspire to leverage my academic knowledge and practical skills to contribute effectively to a dynamic work environment. Seeking opportunities to further develop my programming, problem-solving, and teamwork abilities. Eager to apply classroom learning to real-world projects, with a focus on continuous learning and innovation in the ever-evolving field of computer science.";
 
+  
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
